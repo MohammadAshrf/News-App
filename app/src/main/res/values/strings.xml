@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="title">Frank Lampard says Fikayo Tomori remains part of his Chelsea plans</string>
+    <string name="author">Jacob Steinberg</string>
+    <string name="article">Football</string>
+    <string name="date">2020–11-06</string>
+    <string name="error_msg">No news found. Check your connection!</string>
+    <string name="internet_connection">No internet Connection!</string>
+</resources>
